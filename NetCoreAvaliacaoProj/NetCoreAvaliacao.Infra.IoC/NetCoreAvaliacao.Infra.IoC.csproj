@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCoreAvaliacao.Application\NetCoreAvaliacao.Application.csproj" />
+    <ProjectReference Include="..\NetCoreAvaliacao.Domain\NetCoreAvaliacao.Domain.csproj" />
+    <ProjectReference Include="..\NetCoreAvaliacao.Infra.Data\NetCoreAvaliacao.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

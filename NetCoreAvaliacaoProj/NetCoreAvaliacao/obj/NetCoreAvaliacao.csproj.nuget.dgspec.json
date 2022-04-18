@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao\\NetCoreAvaliacao.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\NetCoreAvaliacao.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\NetCoreAvaliacao.Application.csproj",
+        "projectName": "NetCoreAvaliacao.Application",
+        "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\NetCoreAvaliacao.Application.csproj",
+        "packagesPath": "C:\\Users\\kspento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kspento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj",
+        "projectName": "NetCoreAvaliacao.Domain",
+        "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj",
+        "packagesPath": "C:\\Users\\kspento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kspento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\NetCoreAvaliacao.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\NetCoreAvaliacao.Infra.Data.csproj",
+        "projectName": "NetCoreAvaliacao.Infra.Data",
+        "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\NetCoreAvaliacao.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\kspento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kspento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.IoC\\NetCoreAvaliacao.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.IoC\\NetCoreAvaliacao.Infra.IoC.csproj",
+        "projectName": "NetCoreAvaliacao.Infra.IoC",
+        "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.IoC\\NetCoreAvaliacao.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\kspento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kspento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\NetCoreAvaliacao.Application.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\NetCoreAvaliacao.Application.csproj"
+              },
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Domain\\NetCoreAvaliacao.Domain.csproj"
+              },
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\NetCoreAvaliacao.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\NetCoreAvaliacao.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao\\NetCoreAvaliacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao\\NetCoreAvaliacao.csproj",
+        "projectName": "NetCoreAvaliacao",
+        "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao\\NetCoreAvaliacao.csproj",
+        "packagesPath": "C:\\Users\\kspento\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kspento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\NetCoreAvaliacao.Application.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Application\\NetCoreAvaliacao.Application.csproj"
+              },
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\NetCoreAvaliacao.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.Data\\NetCoreAvaliacao.Infra.Data.csproj"
+              },
+              "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.IoC\\NetCoreAvaliacao.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\kspento\\source\\repos\\NetCoreAvaliacaoProj\\NetCoreAvaliacao.Infra.IoC\\NetCoreAvaliacao.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
